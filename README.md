@@ -1,2 +1,1 @@
-# Data-analysis-dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process included various steps such as data entry, preprocessing, sorting, cleaning, and data visualization.
+A company’s sales team has conducted sales in different cities. The company wants to identify the top and bottom salespeople in each city. Additionally, it aims to evaluate how close each team member is to meeting their target percentage, in order to issue appreciation letters to top performers and provide regulatory support or feedback to those who are underperforming.
