@@ -18,3 +18,5 @@ Merge all Pivot Tables into a single dashboard.
 Apply Slicers to make the dashboard interactive and dynamic for filtering by city, salesperson, or other criteria.
 ## Dashboard
 <img width="1421" height="576" alt="Screenshot 2025-08-27 182935" src="https://github.com/user-attachments/assets/bceb037b-a30e-4a5e-a886-a1f2bc28211f" />
+## conclusion
+These findings support data-driven decision-making, allowing management to recognize top achievers and offer support or training to underperforming team members. The dynamic dashboard also allows for continuous monitoring and future performance tracking.
